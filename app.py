@@ -147,4 +147,4 @@ if image is not None:
 else:
     st.info("👆 Choose upload or camera above to start")
 
-st.caption("Built with Streamlit + TensorFlow • Red bounding boxes like your sample")
+st.caption("PalawanSu Rizal")
